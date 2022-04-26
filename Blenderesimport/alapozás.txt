@@ -1,0 +1,8 @@
+npm init @vitejs/app
+myproject
+vanilla
+Javascriptj
+cd \blenderprob1
+npm install 
+npm install three
+npm run dev
